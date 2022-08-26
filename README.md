@@ -1,1 +1,1 @@
-start with pointers
+learn about recursion
